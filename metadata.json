@@ -1,0 +1,6 @@
+{
+  "name": "OLevel AI",
+  "description": "Enterprise-grade AI-powered educational platform for Tanzania secondary students",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
